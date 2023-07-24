@@ -25,7 +25,7 @@ The project's outcomes include enhanced customer understanding, improved product
 increased customer satisfaction, all contributing to the organization's growth and success in the 
 market.
 
-![image](https://github.com/Monish-07/Event-Feedback-Analysis/assets/95215581/1bfb693f-7504-4d12-9130-b82fc1275a53)
+![image](https://github.com/Monish-07/Event-Feedback-Analysis/assets/95215581/dc95e538-beaa-4d6f-8291-d930ff71a6d9)
 
 The project follows a systematic methodology for customer feedback analysis:
 • Data Collection: Gather feedback data from multiple sources and ensure data integrity.
@@ -41,7 +41,7 @@ preferences.
 • Data-Driven Recommendations: Derive actionable recommendations based on the 
 analysis.
 
-![image](https://github.com/Monish-07/Event-Feedback-Analysis/assets/95215581/7c77cb78-82b6-4325-a0fb-f519ec0094bc)
+![image](https://github.com/Monish-07/Event-Feedback-Analysis/assets/95215581/728504d7-ce6e-4f23-95ab-27c0ad0ccbe1)
 
 We outline the key findings and insights obtained from the clustering process. The results will 
 include the following aspects:
@@ -52,11 +52,11 @@ components that explain the variance in the feedback data while reducing its dim
 - Cluster Characteristics: We discuss the traits and patterns identified within each customer 
 feedback cluster. This includes common sentiments, preferences, and themes expressed by 
 customers in each cluster.
-Dashboards built
+These are the illustartions of Dashboards built
 ![image](https://github.com/Monish-07/Event-Feedback-Analysis/assets/95215581/d4a0ecf2-60be-4705-baf8-f4ecaf44079b)
 ![image](https://github.com/Monish-07/Event-Feedback-Analysis/assets/95215581/dca86ee8-5e17-4f3f-9b67-d84ac4e8bb65)
 
-![image](https://github.com/Monish-07/Event-Feedback-Analysis/assets/95215581/7fd76b12-7128-4463-a78d-88d771aa24f1)
+![image](https://github.com/Monish-07/Event-Feedback-Analysis/assets/95215581/55683786-43a3-4052-a51b-05eedb58b753)
 ![image](https://github.com/Monish-07/Event-Feedback-Analysis/assets/95215581/10d7c289-d4f0-4b6d-bac1-b7214b54bd1b)
 
 
