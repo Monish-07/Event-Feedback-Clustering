@@ -1,4 +1,4 @@
-# Event-Feedback-Analysis
+# Event-Feedback-Clustering
 
 In today's competitive business landscape, understanding customer feedback has become crucial 
 for organizations to improve their products and services and enhance customer satisfaction. This 
